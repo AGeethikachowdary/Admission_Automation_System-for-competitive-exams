@@ -1,25 +1,37 @@
 # Online Admission System
 
 
-•	The system enables the student to fill application forms online and submit it. They also submit their necessary documents like passport size photograph, certificates and marksheets along with the identity proof. 
+Application Submission
+• Students can conveniently fill and submit application forms online, attaching necessary documents such as passport-size photographs, certificates, marksheets, and identity proofs.
 
-•	The Manager can view the application forms and can approve or disapprove them. He can submit the CUEE marks of the students.
+Managerial Oversight
+• Managers have the authority to review submitted application forms, approving or rejecting them as necessary. They can also input CUEE marks for students.
 
-•	If it is approved, an email will be sent to the Student’s email ID and the admit card can be downloaded from the student’s account. The students can further view their results. 
+Notification System
+• Upon approval, an automated email notification is sent to the student's email address. Additionally, the admit card is made available for download from the student's account.
 
-•	This system helps in reducing the manual efforts and consumes less time.
+Result Access
+• Students can access their examination results through the system, providing transparency and accessibility.
 
-OBJECTIVE
+Streamlined Processes
+• By digitizing the admissions process, manual efforts are minimized, resulting in significant time savings for both students and administrative staff.
 
 
-•	To reduce the processing time and acquire more accurate information. 
+Objectives
+• Reduce processing time and improve information accuracy.
 
-•	To ensure reliability.
+• Ensure reliability in the admissions process.
 
-•	Generate Student’s Academic Detail Report.
+• Generate detailed academic reports for students.
 
-•	Generate Student’s Personal Detail Report along with the necessary documents.
+• Generate comprehensive personal detail reports, including submitted documents.
 
-•	Database maintained by this system usually contains the student’s personal and academic related information. It focuses on storing and processing data by using web pages.
+• The system's database contains personal and academic information, focusing on efficient data storage and processing through web interfaces.
 
-•	To make the system more user friendly. 
+• Enhance user-friendliness for a smoother experience.
+
+
+
+
+
+
