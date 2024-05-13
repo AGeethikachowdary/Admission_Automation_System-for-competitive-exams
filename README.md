@@ -1,23 +1,29 @@
 # Online Admission System
 
 
-Application Submission
+**Application Submission**
+
 • Students can conveniently fill and submit application forms online, attaching necessary documents such as passport-size photographs, certificates, marksheets, and identity proofs.
 
-Managerial Oversight
+**Managerial Oversight**
+
 • Managers have the authority to review submitted application forms, approving or rejecting them as necessary. They can also input CUEE marks for students.
 
-Notification System
+**Notification System**
+
 • Upon approval, an automated email notification is sent to the student's email address. Additionally, the admit card is made available for download from the student's account.
 
-Result Access
+**Result Access**
+
 • Students can access their examination results through the system, providing transparency and accessibility.
 
-Streamlined Processes
+**Streamlined Processes**
+
 • By digitizing the admissions process, manual efforts are minimized, resulting in significant time savings for both students and administrative staff.
 
 
-Objectives
+**Objectives**
+
 • Reduce processing time and improve information accuracy.
 
 • Ensure reliability in the admissions process.
